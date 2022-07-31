@@ -32,7 +32,7 @@
 		nav: true,
 		dots: false,
 		autoplay: false,
-		NaguartSpeed: 1000,
+		RTCartSpeed: 1000,
 		autoplayHoverPause: true,
 		navText: [
 			"<i class='flaticon-left-arrow'></i>",
@@ -50,7 +50,7 @@
 		mouseDrag: true,
 		autoHeight: true,
 		autoplay: true,
-		NaguartSpeed: 800,
+		RTCartSpeed: 800,
 		autoplayHoverPause: true,
 		animateOut: "fadeOut",
 		navText: [
@@ -69,7 +69,7 @@
 		mouseDrag: true,
 		autoHeight: true,
 		autoplay: false,
-		NaguartSpeed: 800,
+		RTCartSpeed: 800,
 		autoplayHoverPause: true,
 		animateOut: "fadeOut",
 		navText: [
@@ -85,7 +85,7 @@
 		nav: true,
 		dots: false,
 		autoplay: true,
-		NaguartSpeed: 1000,
+		RTCartSpeed: 1000,
 		autoplayHoverPause: true,
 		navText: [
 			"<i class='flaticon-left-arrow'></i>",
@@ -120,7 +120,7 @@
 		nav: false,
 		dots: false,
 		autoplay: true,
-		NaguartSpeed: 1000,
+		RTCartSpeed: 1000,
 		autoplayHoverPause: true,
 		responsive:{
 			0: {
@@ -151,7 +151,7 @@
 		nav: true,
 		dots: false,
 		autoplay: true,
-		NaguartSpeed: 1000,
+		RTCartSpeed: 1000,
 		autoplayHoverPause: true,
 		navText: [
 			"<i class='flaticon-left-arrow'></i>",
@@ -186,7 +186,7 @@
 		nav: true,
 		dots: false,
 		autoplay: false,
-		NaguartSpeed: 1000,
+		RTCartSpeed: 1000,
 		autoplayHoverPause: true,
 		center: true,
 		navText: [
